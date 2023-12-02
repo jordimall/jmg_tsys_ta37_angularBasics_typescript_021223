@@ -1,0 +1,34 @@
+.bacgraund-blue {
+  background-color: blue;
+}
+
+.margen {
+  padding: 1%;
+  border-radius: 5px;
+}
+
+.border-buttons {
+  border-radius: 1px;
+}
+
+.display {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.borde {
+  -webkit-box-shadow: 0 3px 9px black;
+  box-shadow: 0 3px 9px black;
+  border-radius: 3px;
+  -webkit-transition: border 0.2s ease-in-out;
+  transition: border 0.2s ease-in-out;
+}
+
+.centro {
+  width: 100%;
+  height: 100%;
+}
